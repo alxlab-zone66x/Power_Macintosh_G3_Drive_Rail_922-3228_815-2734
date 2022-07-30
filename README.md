@@ -4,7 +4,7 @@
 
 # Power Macintosh G3 Drive Rail 922-3228 815-2734
 
-This is the drive rail for the Power Macintosh G3 beige desktop. The Apple part number is 922-3228 and the part is marked with 815-2734. This is used for the CD drive back and the extra hard drive or zip drive bay.
+This is the drive rail for the Power Macintosh G3 beige desktop. The Apple part number is 922-3228 and the part is marked with 815-2734. This is used for the CD drive bay and the extra hard drive or zip drive bay.
 
 This drive rail can also replace Apple part number 922-1661 which is marked with 815-1954. This part is used in the Power Macintosh 7200, 7300, 7500, 7600 and WS 7350. In my opinion the G3 drive rail is a superior design since it's easier to slide in the drive.
 
